@@ -79,16 +79,16 @@ The goal of this project was to build a scalable video streaming backend that so
 ## 📸 Screenshots
 
 ### 1. AI-Powered Upload Page
-*(Place your screenshot here: e.g., `![Upload](screenshots/aiuse2.jpg)`)*
+![Upload](screenshots/aiuse2.jpg)
 > Users enter rough notes, and AI generates the title and description instantly.
 
 ### 2. Video Player with Quality Selector
-*(Place your screenshot here: e.g., `![Player](screenshots/videoplaying.jpg)`)*
-> Custom player showing 1080p/720p/360p options via HLS.
+![Player](screenshots/videoplaying.jpg)
+> Custom player with 1080p/720p/360p options via HLS.
 
 ### 3. Video MySQL Database
-*(Place your screenshot here: e.g., `![Player](screenshots/sqldatabse.jpg)`)*
-> Custom player showing 1080p/720p/360p options via HLS.
+![Database](screenshots/sqldata.jpg)
+> MySQL Database.
 
 ---
 
@@ -99,10 +99,3 @@ The goal of this project was to build a scalable video streaming backend that so
 * **Node.js & npm**
 * **MySQL**
 * **FFmpeg** (Must be installed and added to System PATH)
-
-### 1. Backend Setup
-```bash
-git clone [https://github.com/yourusername/project-name.git](https://github.com/yourusername/project-name.git)
-cd backend
-# Configure src/main/resources/application.properties with your DB and API keys
-mvn spring-boot:run
