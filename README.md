@@ -79,15 +79,15 @@ The goal of this project was to build a scalable video streaming backend that so
 ## 📸 Screenshots
 
 ### 1. AI-Powered Upload Page
-*(Place your screenshot here: e.g., `![Upload](screenshots/upload.png)`)*
+*(Place your screenshot here: e.g., `![Upload](screenshots/aiuse2.jpg)`)*
 > Users enter rough notes, and AI generates the title and description instantly.
 
 ### 2. Video Player with Quality Selector
-*(Place your screenshot here: e.g., `![Player](screenshots/player.png)`)*
+*(Place your screenshot here: e.g., `![Player](screenshots/videoplaying.jpg)`)*
 > Custom player showing 1080p/720p/360p options via HLS.
 
 ### 3. Video MySQL Database
-*(Place your screenshot here: e.g., `![Player](screenshots/player.png)`)*
+*(Place your screenshot here: e.g., `![Player](screenshots/sqldatabse.jpg)`)*
 > Custom player showing 1080p/720p/360p options via HLS.
 
 ---
